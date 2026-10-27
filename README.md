@@ -16,4 +16,5 @@
 
 ### Ажиллуулах команд (GCC)
 gcc main.c -o main
+
 ./main
